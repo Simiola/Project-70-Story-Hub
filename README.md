@@ -1,1 +1,2 @@
-# Project-70-Story-Hub
+# Project70
+Story Hub 1
